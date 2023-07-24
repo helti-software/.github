@@ -81,19 +81,13 @@ Lean canvases can be found in following folders:
 
 The project is built from the following components:
 
-- Frontend: [helti-web](https://github.com/KristianKonov/helti) by [Kristian Konov](https://github.com/KristianKonov)
-- Backend is built by several modules:
-  - [helti-core](https://github.com/helti-software/helti-core) - Docker and SQLs, containing the client module used by Feign and other apps for cross service communication
-  - [user-service](https://github.com/helti-software/user-service) - Authentication service and exposing data and endpoints for user-related operations
-  - [food-service](https://github.com/helti-software/food-service) - Food registry service containing data about all our foods.
-  - [recipe-service](https://github.com/helti-software/recipe-service) - Recipe service containing data for the recipes.
-  - [training-service](https://github.com/helti-software/training-service) - Service providing the users ability to the track their workouts, which enables us to use the data from it in order to determine their workout duration and number of workouts per week.
-  - [generation-service](https://github.com/helti-software/generation-service) - Service used for generating meals. Currently working with input of 3 foods.
-
+- Frontend: [helti-web](https://github.com/KristianKonov/helti)
+- Backend: [helti-backend](https://github.com/helti-software/helti-backend)
+- DevOps: [helti-devops](https://github.com/helti-software/helti-devops) - Docker and SQLs
 
 ## Installation <a name = "installation"></a>
 
-Refer to helti-core's [README.md](https://github.com/helti-software/helti-core)
+Refer to helti-devops's [README.md](https://github.com/helti-software/helti-devops)
 
 
 ## Contacts <a name = "contacts"></a>
