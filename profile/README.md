@@ -97,3 +97,4 @@ Contributors:
 - Deyvid Dimitrov - [LinkedIn](https://www.linkedin.com/in/deyvid-p-dimitrov/) [Github](https://github.com/DeyvidDimitrov)
 - Kristian Konov - [LinkedIn](https://www.linkedin.com/in/kristian-konov/) [Github](https://github.com/KristianKonov)
 - Petyo Vakov - [LinkedIn](https://www.linkedin.com/in/petyo-vakov-7b8238107/) [Github](https://github.com/Petyo98)
+- Dimitar Sotirov [LinkedIn](https://www.linkedin.com/in/dimitar-sotirov-8454811bb/)
